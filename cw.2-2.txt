@@ -1,0 +1,15 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+		int height = 180;
+		
+		if (height > 160) {  
+		    System.out.println("can enter");
+		}
+      if (height < 160) {
+          System.out.println("Can't get in");                          
+      }   
+      
+	}
+}
